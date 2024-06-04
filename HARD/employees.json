@@ -1,0 +1,64 @@
+{
+    "employees": [
+        {
+            "employeeID": "1",
+            "name": "Totoro",
+            "salary": 90000,
+            "department": "Animator"
+        },
+        {
+            "employeeID": "2",
+            "name": "Mei",
+            "salary": 120000,
+            "department": "Producer"
+        },
+        {
+            "employeeID": "3",
+            "name": "Sauski",
+            "salary": 89000,
+            "department": "Development"
+        },
+        {
+            "employeeID": "4",
+            "name": "Chihiro",
+            "salary": 90000,
+            "department": "Storyboard Artist"
+        },
+        {
+            "employeeID": "5",
+            "name": "Marnie",
+            "salary": 200000,
+            "department": "Character designer"
+        },
+        {
+            "employeeID": "6",
+            "name": "Zeniba",
+            "salary": 80000,
+            "department": "Sound designer"
+        },
+        {
+            "employeeID": "7",
+            "name": "Sophie",
+            "salary": 75000,
+            "department": "Writer"
+        },
+        {
+            "employeeID": "8",
+            "name": "Howl",
+            "salary": 500000,
+            "department": "Production"
+        },
+        {
+            "employeeID": "9",
+            "name": "Calcifier",
+            "salary": 86000,
+            "department": "Compositing"
+        },
+        {
+            "employeeID": "10",
+            "name": "Ponyo",
+            "salary": 20000,
+            "department": "Runner"
+        }
+    ]
+}
